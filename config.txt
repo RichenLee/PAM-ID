@@ -1,0 +1,7 @@
+sgRNA_seq	GAGAAGTCATTTAATAAGGCCACTGTTAAAA
+fastqR1	test_R1.fastq.gz
+fastqR2	test_R2.fastq.gz
+PAM_length	7
+PAM_orientation	5
+control_sample	NTC
+log2fc_cutoff	3.5
